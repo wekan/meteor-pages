@@ -5,7 +5,7 @@
   templateName: "items"
   dataMargin: 0
   availableSettings:
-  	filters: true
+    filters: true
 @Pages2 = new Meteor.Pagination Items,
   sort:
     items_id: -1
